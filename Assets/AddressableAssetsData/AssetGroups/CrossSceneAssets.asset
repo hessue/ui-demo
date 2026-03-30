@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: CrossSceneAssets
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: CrossSceneAssets
+  m_GUID: c72fb80360a575e4babb6669127ed366
+  m_SerializeEntries:
+  - m_GUID: 30f7d91e1582aab4a8b64cddc09cb9e0
+    m_Address: Assets/Prefabs/CrossSceneAssets.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - cross_scene_assets
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5dd4cd7102d1b140915662a904cc550, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6dd72410147b75943aa2da7e6c3ceecd, type: 2}
+    - {fileID: 11400000, guid: 5da7d9010756b844daa6cabe726f1481, type: 2}

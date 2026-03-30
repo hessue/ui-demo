@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: LevelSelection_Scene
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: LevelSelection_Scene
+  m_GUID: e14cf22f1c80d5c49af25f312fcff7bd
+  m_SerializeEntries:
+  - m_GUID: 1a5d3eee19fd4ee49ab9f7f644f463b0
+    m_Address: Assets/Scenes/LevelSelection.unity
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - levelselection_scene
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5dd4cd7102d1b140915662a904cc550, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6793ebf0d69711d4c8065e4fef6243ca, type: 2}
+    - {fileID: 11400000, guid: d76c7f7a67487f147bddc36583015b63, type: 2}

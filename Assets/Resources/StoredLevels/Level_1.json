@@ -1,0 +1,286 @@
+{
+  "addressableAssets": [
+    {
+      "guid": "5d4d3ab43c23d424da9062d148b44a30",
+      "tileType": "EnemySpawner",
+      "group": "Blocks_Core"
+    },
+    {
+      "guid": "69975689c526d124fb16c047dd9f069a",
+      "tileType": "Flag",
+      "group": "Blocks_Core"
+    },
+    {
+      "guid": "34409e3a8825799488a3d248748668c4",
+      "tileType": "FlowersGlowing",
+      "group": "Blocks_Core"
+    },
+    {
+      "guid": "d63dc15df1fb54aac836eac4b49d8a2c",
+      "tileType": "Block",
+      "group": "Blocks_Core"
+    }
+  ],
+  "levelName": "Level_1",
+  "isPredefinedBlueprint": false,
+  "description": "Introduction",
+  "groundThree": [],
+  "groundTwo": [
+    {
+      "isStaticGameObject": false,
+      "type": 9,
+      "x": -1.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [
+        2
+      ],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 1,
+      "x": -2.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 19,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    }
+  ],
+  "groundOne": [
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "metadata": [],
+      "isBluePrintBlock": false
+    }
+  ],
+  "groundZero": [],
+  "staticMainStructures": [],
+  "staticWalkingPlatform": [],
+  "usedTileTypes": [
+    9,
+    1,
+    19,
+    3
+  ],
+  "tileCount": 19,
+  "m_events": {
+    "allWavesTotalEnemyCount": 1,
+    "currentWaveIndex": 0,
+    "events": [
+      {
+        "scenarioType": 0,
+        "description": "Easy wave",
+        "interval": 0.0,
+        "repeatTimes": 0,
+        "waves": [
+          {
+            "spawnsToUse": [
+              0
+            ],
+            "enemyCountToSpawn": 1,
+            "spawnEnemyTypes": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "challengeInfo": {
+    "challengeType": 2,
+    "timeToBeat": 0.0,
+    "collectCount": 0,
+    "touchCount": 1,
+    "touchTileType": 1,
+    "collectableType": 0,
+    "countToSlay": 0,
+    "typeToSlay": 0
+  }
+}
