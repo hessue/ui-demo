@@ -1,0 +1,15 @@
+namespace BlockAndDagger
+{
+    public enum LevelName
+    {
+        Level_1,
+        Level_2,
+        Level_3,
+        Level_4,
+        Level_5,
+        Level_6,
+        Level_7,
+        Level_8
+    }
+}
+

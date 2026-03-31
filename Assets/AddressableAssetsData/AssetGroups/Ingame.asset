@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Ingame
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Ingame
+  m_GUID: e3c1b09e82641f946ad0c46b7db0a9a8
+  m_SerializeEntries:
+  - m_GUID: 0ef4266c21c19a844b40363917015e7a
+    m_Address: Prefabs/Blocks
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_folder
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 9a1cbbd2ac219d6469a4e01e32565f62
+    m_Address: Assets/Art/UI_HUD.spriteatlasv2
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5dd4cd7102d1b140915662a904cc550, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: d70a7903d7d772044a046df09e665996, type: 2}
+    - {fileID: 11400000, guid: 7265b8385c766504d948a463b037554b, type: 2}

@@ -1,0 +1,80 @@
+{
+  "isStaticGameObject": false,
+  "levelName": "Level_1",
+  "isPredefinedBlueprint": true,
+  "description": "Hide and Seek",
+  "groundThree": [],
+  "groundTwo": [
+    {
+      "isStaticGameObject": false,
+      "type": 6,
+      "x": -2.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": true
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 14,
+      "x": -2.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": true
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 5,
+      "x": -5.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": true
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 5,
+      "x": -6.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": true
+    }
+  ],
+  "groundOne": [],
+  "groundZero": [],
+  "staticMainStructures": [],
+  "staticWalkingPlatform": [],
+  "tileCount": 4,
+  "m_events": {
+    "allWavesTotalEnemyCount": 0,
+    "currentWaveIndex": 0,
+    "events": [
+      {
+        "scenarioType": 0,
+        "description": "Easy wave",
+        "interval": 10.0,
+        "repeatTimes": 5,
+        "waves": [
+          {
+            "spawnsToUse": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "enemyCountToSpawn": 4,
+            "spawnEnemyTypes": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

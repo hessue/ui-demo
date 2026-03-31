@@ -1,0 +1,5580 @@
+{
+  "levelName": "Level_1",
+  "isPredefinedBlueprint": false,
+  "description": "Hide and Seek",
+  "groundThree": [],
+  "groundTwo": [
+    {
+      "isStaticGameObject": false,
+      "type": 8,
+      "x": -5.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 6.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 5.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 5.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 6.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 6.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 5.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 4.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -5.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -5.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 6.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 6.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 8.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 9,
+      "x": 9.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 9,
+      "x": 1.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 7.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -9.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 9,
+      "x": 10.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -3.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 10.5,
+      "y": 2.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 9,
+      "x": -5.5,
+      "y": 2.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -3.5,
+      "y": 2.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -3.5,
+      "y": 2.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -3.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -0.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -1.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -3.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 180.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 90.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 90.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 90.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 90.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 270.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 270.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -4.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 270.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -4.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 270.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -3.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 15,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -0.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -3.5,
+      "y": 2.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 1.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 0.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 1,
+      "x": 9.5,
+      "y": 2.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -7.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -8.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -1.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -2.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -4.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": -6.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 4.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 7,
+      "x": 3.5,
+      "y": 2.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 13,
+      "x": -0.5,
+      "y": 2.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    }
+  ],
+  "groundOne": [
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -9.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -7.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -8.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -6.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -5.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -3.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -4.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -2.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -1.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": -0.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 0.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 1.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 2.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 9.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 5.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 8.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 7.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 4.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 3.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 6.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 1.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 2.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 3.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 4.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 5.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 6.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 7.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 8.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": 9.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    },
+    {
+      "isStaticGameObject": false,
+      "type": 3,
+      "x": 10.5,
+      "y": 1.0,
+      "z": -0.5,
+      "rotationY": 0.0,
+      "hp": 0,
+      "isBluePrintBlock": false
+    }
+  ],
+  "groundZero": [],
+  "staticMainStructures": [],
+  "staticWalkingPlatform": [],
+  "tileCount": 553,
+  "m_events": {
+    "allWavesTotalEnemyCount": 0,
+    "currentWaveIndex": 0,
+    "events": [
+      {
+        "scenarioType": 0,
+        "description": "Easy wave",
+        "interval": 10.0,
+        "repeatTimes": 5,
+        "waves": [
+          {
+            "spawnsToUse": [
+              0,
+              1,
+              2,
+              3
+            ],
+            "enemyCountToSpawn": 4,
+            "spawnEnemyTypes": [
+              1
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "challengeInfo": {
+    "challengeType": 2,
+    "timeToBeat": 0.0,
+    "collectCount": 0,
+    "touchCount": 1,
+    "touchTileType": 1,
+    "collectableType": 0,
+    "countToSlay": 0,
+    "typeToSlay": 0
+  }
+}
