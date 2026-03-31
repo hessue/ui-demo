@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Blocks_Castle
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Blocks_Castle
+  m_GUID: 229c348b18500f941b359677fbc1b666
+  m_SerializeEntries:
+  - m_GUID: 5a27aec57ad98b44fb0483a91bf3e494
+    m_Address: Assets/Prefabs/Blocks/Fence.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_castle
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7763c04c01871f848bf1c5b759ca49cd
+    m_Address: Assets/Prefabs/Blocks/Crate.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_castle
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d4762b4711f00124382b27edce4ae769
+    m_Address: Assets/Prefabs/Blocks/Barrel.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_castle
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5dd4cd7102d1b140915662a904cc550, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: 6d2d176ca8da0d949b640f3cb86712a5, type: 2}
+    - {fileID: 11400000, guid: 7ca32a4fdcc97d348975ff35d8992387, type: 2}

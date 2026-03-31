@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Blocks_Core
+  m_EditorClassIdentifier: Unity.Addressables.Editor::UnityEditor.AddressableAssets.Settings.AddressableAssetGroup
+  m_GroupName: Blocks_Core
+  m_GUID: 3f7ad5809ee2ad74fa42bbf13b3f9920
+  m_SerializeEntries:
+  - m_GUID: 468b51f432ff06141b4451076491fb58
+    m_Address: Assets/Prefabs/Blocks/InvisibleWall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5d4d3ab43c23d424da9062d148b44a30
+    m_Address: Assets/Prefabs/Blocks/EnemySpawner.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 69975689c526d124fb16c047dd9f069a
+    m_Address: Assets/Prefabs/Blocks/Flag.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7c9f81521ffbf7a43b6a325420801259
+    m_Address: Assets/Prefabs/Blocks/Block.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 97e731f96a969ca4ea521bd5d69aa237
+    m_Address: Assets/Prefabs/Blocks/Slope.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: bf86a69bdf5408b498ad8441e6722503
+    m_Address: Assets/Prefabs/Blocks/Heart.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d0547840f6718fd47a0797a74beecff5
+    m_Address: Assets/Prefabs/Blocks/Flowers.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d63dc15df1fb54aac836eac4b49d8a2c
+    m_Address: Assets/Prefabs/Blocks/AI1BlockDropDown.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: eedaf9800cb703a4aab3035be6bdd030
+    m_Address: Assets/Prefabs/Blocks/Wall.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: fb172d425dd50448ba3e815d8b17962a
+    m_Address: Assets/Prefabs/Blocks/DropSupportPlato.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - blocks_core
+    - dev_blocks_all
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: f5dd4cd7102d1b140915662a904cc550, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: dcf7b6acb2d66ce48b2e443734333001, type: 2}
+    - {fileID: 11400000, guid: 12afcaa30205f8c488af703133c120ce, type: 2}
